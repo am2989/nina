@@ -40,4 +40,4 @@ Nina: Não encontrei essa informação na minha base de conhecimento atual...
 - Adicionar uma interface web simples (ex.: Streamlit)
 
 ---
-*Link do repositório: (adicionar aqui depois de publicado no GitHub)*
+*Link do repositório: (https://github.com/am2989/nina)*
